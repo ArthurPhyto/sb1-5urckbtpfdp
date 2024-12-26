@@ -63,5 +63,9 @@
     "tailwindcss-animate": "^1.0.7",
     "typescript": "5.2.2",
     "utf-8-validate": "^6.0.3"
+    "bufferutil": "4.0.8",
+    "react-day-picker": "8.10.1",
+    "utf-8-validate": "6.0.5",
+    "node-gyp-build": "4.8.4"
   }
 }
